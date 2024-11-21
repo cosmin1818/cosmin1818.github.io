@@ -29,12 +29,6 @@ div.image {
     width: 25%;
 }
 
-img.red_pj {
-    border: 3px solid darkred;
-    height: 100%;
-    width: 100%;
-}
-
 div.image2 {
     padding-left: 50px;
     height: 40%;
@@ -42,9 +36,17 @@ div.image2 {
 }
 
 img.primul {
-    border: 3px solid darkblue;
-    height: 100%;
-    width: 100%;
+    border: 3px solid darkslategray;
+    margin-left: 11%;
+    height: 80%;
+    width: 80%;
+}
+
+img.old_p {
+    border: 3px solid darkorange;
+    margin-left: 18%;
+    height: 95%;
+    width: 60%;
 }
 
 h1 {
